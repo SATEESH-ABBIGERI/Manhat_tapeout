@@ -29,6 +29,6 @@ module tt_um_Manhat_tapeout (
 
 
   // List all unused inputs to prevent warnings
-  wire _unused = &{ena, clk, rst_n, 1'b0,ui_in[7:3], uio_in[7:0],};
+  wire _unused = &{ena, clk, rst_n, 1'b0,ui_in[7:3], uio_in[7:0]};
 
 endmodule
