@@ -17,4 +17,5 @@ Explain how to use your project
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+List external hardware used in your![WhatsApp Image 2025-09-07 at 10 47 51 PM](https://github.com/user-attachments/assets/681ead59-4403-427a-b7b5-564366759583)
+ project (e.g. PMOD, LED display, etc), if any
